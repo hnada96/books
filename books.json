@@ -98,6 +98,22 @@
       "category_name" : "comic"
     }
     
-  ]
+  ],
+  "about_app":{
+  
+"app_name" :"el principito",
+"app_logo" :"https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/27363_298b64ccb9aaf7289ce8ea19776b4325--insight-teaching.jpg?alt=media&token=15bae8b7-ccc6-417a-a25e-c89726873e85",
+"app_version" :"2.0",
+"app_author" :"hnada",
+"app_contact" :"hnada6885@gmail.com",
+"app_email" :"hnada6885@gmail.com",
+"app_website" :"appmasters.ga",
+"app_description" :"hhhhhhhhhhhhh",
+"app_privacy_policy" :"hhhhhhhhhhhhh"
+  
+  
+  
 }
+}
+ 
 }
