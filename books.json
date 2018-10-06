@@ -33,6 +33,41 @@
     }
     
   ],
+  "scdList" : [
+    {
+      "id" : "1",
+      "cat_id" : "1",
+      "book_title" : "principito",
+      "book_file_url" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fbajo00.pdf?alt=media&token=3e0f01bb-cdd5-43df-a598-c8993a7f569e",
+      "book_description" : "book principito",
+      "book_cover_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/27363_298b64ccb9aaf7289ce8ea19776b4325--insight-teaching.jpg?alt=media&token=15bae8b7-ccc6-417a-a25e-c89726873e85",
+      "book_bg_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_file_type" : "server",
+      "total_rate" : "12",
+      "rate_avg" : "5",
+      "book_views" : "111",
+      "author_id" : "1",
+      "author_name" : "hnada",
+      "category_name" : "comic"
+    },
+    {
+       "id" : "2",
+      "cat_id" : "1",
+      "book_title" : "principito",
+        "book_file_url" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fbajo00.pdf?alt=media&token=3e0f01bb-cdd5-43df-a598-c8993a7f569e",
+      "book_description" : "book principito",
+      "book_cover_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_bg_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/11453_kids_education_app_banner.jpg?alt=media&token=362284e8-c614-4e2f-b867-1736b796bc57",
+      "book_file_type" : "server",
+      "total_rate" : "12",
+      "rate_avg" : "5",
+      "book_views" : "111",
+      "author_id" : "1",
+      "author_name" : "hnada",
+      "category_name" : "comic"
+    }
+    
+  ],
   "latest_books" : [
     {
        "id" : "3",
