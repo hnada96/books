@@ -17,7 +17,7 @@
       "category_name" : "comic"
     },
     {
-       "id" : "1",
+       "id" : "2",
       "cat_id" : "1",
       "book_title" : "principito",
       "book_description" : "book principito",
@@ -35,7 +35,7 @@
   ],
   "latest_books" : [
     {
-       "id" : "1",
+       "id" : "3",
       "cat_id" : "1",
       "book_title" : "principito",
       "book_description" : "book principito",
@@ -50,7 +50,7 @@
       "category_name" : "comic"
     },
     {
-       "id" : "1",
+       "id" : "4",
       "cat_id" : "1",
       "book_title" : "principito",
       "book_description" : "book principito",
@@ -68,7 +68,7 @@
   ],
   "popular_books" : [
     {
-       "id" : "1",
+       "id" : "5",
       "cat_id" : "1",
       "book_title" : "principito",
       "book_description" : "book principito",
@@ -83,7 +83,7 @@
       "category_name" : "comic"
     },
     {
-       "id" : "1",
+       "id" : "6",
       "cat_id" : "1",
       "book_title" : "principito",
       "book_description" : "book principito",
