@@ -1,5 +1,56 @@
 {"EBOOK_APP": {
   
+  "all_books" : [
+    {
+       "id" : "3",
+      "cat_id" : "1",
+      "book_title" : "principito",
+      "book_description" : "book principito",
+      "book_cover_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_bg_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_file_type" : "server",
+      "total_rate" : "12",
+      "rate_avg" : "5",
+      "book_views" : "111",
+      "author_id" : "1",
+      "author_name" : "hnada",
+      "category_name" : "comic"
+    },
+    {
+       "id" : "3",
+      "cat_id" : "1",
+      "book_title" : "principito",
+      "book_description" : "book principito",
+      "book_cover_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_bg_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_file_type" : "server",
+      "total_rate" : "12",
+      "rate_avg" : "5",
+      "book_views" : "111",
+      "author_id" : "1",
+      "author_name" : "hnada",
+      "category_name" : "comic"
+    },
+    {
+       "id" : "4",
+      "cat_id" : "1",
+      "book_title" : "principito",
+      "book_description" : "book principito",
+      "book_cover_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_bg_img" : "https://firebasestorage.googleapis.com/v0/b/troll-f52f1.appspot.com/o/pdfbooks%2Fpajo_icon.png?alt=media&token=74cbe197-8468-4c7d-8c83-858bc9bdc5ae",
+      "book_file_type" : "server",
+      "total_rate" : "12",
+      "rate_avg" : "5",
+      "book_views" : "111",
+      "author_id" : "1",
+      "author_name" : "hnada",
+      "category_name" : "comic"
+    }
+    
+  ],
+  
+  
+  
   "featured_books" : [
     {
       "id" : "1",
@@ -33,6 +84,7 @@
     }
     
   ],
+  
    "author" : [
     {
       "author_id" : "1",
