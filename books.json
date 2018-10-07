@@ -98,6 +98,19 @@
     }
     
   ],
+   "category" : [
+    {
+      "cat_id" : "1",
+      "category_name" : "hnada",
+      "total_books" : "2"
+    },
+    {
+       "cat_id" : "2",
+      "category_name" : "hnada2",
+      "total_books" : "5"
+    }
+    
+  ],
   "scdList" : [
     {
       "id" : "1",
