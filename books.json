@@ -1,5 +1,5 @@
 {"Depots" :{
-  "Depot1" : [
+  "Depot1" : [{
     "Category1" : {
       "Prod1" : {
         "designation" : "h548",
@@ -87,8 +87,8 @@
         "prix2" : "12,7"
       }
     }
-  ],
-  "Depot2" : [
+  }],
+  "Depot2" : [{
     "Category1" : {
       "Prod1" : {
         "designation" : "h548",
@@ -176,8 +176,8 @@
         "prix2" : "12,7"
       }
     }
-  ],
-  "Depot3" : [
+  }],
+  "Depot3" : [{
     "Category1" : {
       "Prod1" : {
         "designation" : "h548",
@@ -265,6 +265,6 @@
         "prix2" : "12,7"
       }
     }
-  ]
+  }]
 }
 }
